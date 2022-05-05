@@ -21,4 +21,3 @@ func Mult(a int, b int) int {
 func Div(a int, b int) int {
 	return a / b
 }
-
